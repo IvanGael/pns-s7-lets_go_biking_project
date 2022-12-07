@@ -1,0 +1,29 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\proxy-publish\">
+    <file relUrl="Web.config" publishTime="11/27/2022 00:08:04" />
+    <file relUrl="bin/System.Text.Encodings.Web.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Text.Encodings.Web.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Buffers.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Text.Json.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.ValueTuple.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Numerics.Vectors.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/WebProxyService.exe" publishTime="12/05/2022 11:11:40" />
+    <file relUrl="bin/Microsoft.Bcl.AsyncInterfaces.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Threading.Tasks.Extensions.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Buffers.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.ValueTuple.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Runtime.CompilerServices.Unsafe.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Threading.Tasks.Extensions.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Memory.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Memory.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/WebProxyService.pdb" publishTime="12/05/2022 11:11:40" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/Microsoft.Bcl.AsyncInterfaces.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Text.Json.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/WebProxyService.exe.config" publishTime="11/27/2022 00:08:04" />
+    <file relUrl="WebProxyService.ProxyCacheService.svc" publishTime="12/07/2022 10:05:06" />
+    <file relUrl="bin/System.Numerics.Vectors.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Runtime.CompilerServices.Unsafe.xml" publishTime="11/22/2022 10:00:05" />
+  </publishTarget>
+</publishData>

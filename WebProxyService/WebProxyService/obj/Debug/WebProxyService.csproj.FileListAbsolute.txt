@@ -1,0 +1,87 @@
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\WebProxyService.pdb
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.AssemblyReference.cache
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.CoreCompileInputs.cache
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.pdb
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Newtonsoft.Json.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Newtonsoft.Json.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.CopyComplete
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Buffers.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Memory.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Numerics.Vectors.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Encodings.Web.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Json.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.ValueTuple.dll
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Buffers.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Memory.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Numerics.Vectors.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Encodings.Web.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Json.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.ValueTuple.xml
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\WebProxyService.exe.config
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\bin\Debug\WebProxyService.exe
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.SuggestedBindingRedirects.cache
+D:\COURS NICE\annee 4\S8\SOC\TD\lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.exe
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\WebProxyService.exe.config
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\WebProxyService.exe
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\WebProxyService.pdb
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Json.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.ValueTuple.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Buffers.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Memory.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Text.Json.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\bin\Debug\System.ValueTuple.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.CopyComplete
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.exe
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\denis-code\s8_soc_lets_go_biking\WebProxyService\WebProxyService\obj\Debug\WebProxyService.pdb
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\WebProxyService.exe.config
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\WebProxyService.exe
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\WebProxyService.pdb
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Text.Json.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.ValueTuple.dll
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Buffers.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Memory.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Text.Json.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\bin\Debug\System.ValueTuple.xml
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\obj\Debug\WebProxyService.csproj.CopyComplete
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\obj\Debug\WebProxyService.exe
+C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\WebProxyService\WebProxyService\obj\Debug\WebProxyService.pdb

@@ -1,0 +1,56 @@
+System.Net.Http.HttpRequestException: Le code d'état de réponse n'indique pas la réussite : 504 (Gateway Timeout).
+   à System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   à RoutingWithBikesHost.RoutingService.<ConvertAddressToCoordinates>d__17.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 356
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   à RoutingWithBikesHost.RoutingService.<GetItineraire>d__12.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 215
+System.Net.Http.HttpRequestException: Le code d'état de réponse n'indique pas la réussite : 504 (Gateway Timeout).
+   à System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   à RoutingWithBikesHost.RoutingService.<ConvertAddressToCoordinates>d__17.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 356
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   à RoutingWithBikesHost.RoutingService.<GetItineraire>d__12.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 215
+System.Net.Http.HttpRequestException: Le code d'état de réponse n'indique pas la réussite : 504 (Gateway Timeout).
+   à System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   à RoutingWithBikesHost.RoutingService.<ConvertAddressToCoordinates>d__17.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 356
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   à RoutingWithBikesHost.RoutingService.<GetItineraire>d__12.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 215
+System.Net.Http.HttpRequestException: Le code d'état de réponse n'indique pas la réussite : 504 (Gateway Timeout).
+   à System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   à RoutingWithBikesHost.RoutingService.<ConvertAddressToCoordinates>d__17.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 356
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   à RoutingWithBikesHost.RoutingService.<GetItineraire>d__12.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 215
+System.Net.Http.HttpRequestException: Le code d'état de réponse n'indique pas la réussite : 504 (Gateway Timeout).
+   à System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   à RoutingWithBikesHost.RoutingService.<ConvertAddressToCoordinates>d__17.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 356
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   à RoutingWithBikesHost.RoutingService.<GetItineraire>d__12.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 215
+System.Net.Http.HttpRequestException: Le code d'état de réponse n'indique pas la réussite : 504 (Gateway Timeout).
+   à System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   à RoutingWithBikesHost.RoutingService.<ConvertAddressToCoordinates>d__17.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 356
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   à RoutingWithBikesHost.RoutingService.<GetItineraire>d__12.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 215
+System.Net.Http.HttpRequestException: Le code d'état de réponse n'indique pas la réussite : 400 (Bad Request).
+   à System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   à RoutingWithBikesHost.RoutingService.<ConvertAddressToCoordinates>d__17.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 356
+--- Fin de la trace de la pile à partir de l'emplacement précédent au niveau duquel l'exception a été levée ---
+   à System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   à RoutingWithBikesHost.RoutingService.<GetItineraire>d__12.MoveNext() dans C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\RoutingWithBikesHost\RoutingWithBikesHost\RoutingService.cs:ligne 215

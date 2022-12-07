@@ -1,0 +1,34 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\user\OneDrive\Bureau\Polytech\mwsoc\PROJECT-LETS_GO_BIKING\routing-publish\">
+    <file relUrl="bin\x64/SQLite.Interop.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Data.SQLite.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/RoutingWithBikesHost.exe" publishTime="12/07/2022 01:52:48" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/log7.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/log.txt" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/log5.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/WebHttpBehaviorExtensions.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/log2.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/RoutingWithBikesHost.exe.config" publishTime="12/07/2022 01:52:33" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/System.Data.SQLite.Linq.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/RoutingWithBikesHost.pdb" publishTime="12/07/2022 01:52:48" />
+    <file relUrl="bin/EntityFramework.SqlServer.dll" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/log.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="RoutingWithBikesHost.RoutingService.svc" publishTime="12/07/2022 10:09:47" />
+    <file relUrl="bin/log6.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/log10.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/EntityFramework.SqlServer.xml" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/log3.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin\x86/SQLite.Interop.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/System.Data.SQLite.EF6.dll" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/log8.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/System.Data.SQLite.xml" publishTime="11/22/2022 10:00:05" />
+    <file relUrl="bin/log-itineraire.log" publishTime="12/07/2022 01:12:54" />
+    <file relUrl="bin/log4.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="bin/log9.log" publishTime="11/22/2022 10:00:04" />
+    <file relUrl="Web.config" publishTime="12/07/2022 01:52:33" />
+  </publishTarget>
+</publishData>
