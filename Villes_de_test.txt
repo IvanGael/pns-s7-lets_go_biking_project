@@ -1,0 +1,6 @@
+rouen
+marseille
+toulouse
+luxembourg
+marribor
+bruxelles
